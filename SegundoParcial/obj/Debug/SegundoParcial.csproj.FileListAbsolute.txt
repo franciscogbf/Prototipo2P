@@ -1,0 +1,12 @@
+C:\Users\franc\source\repos\SegundoParcial\bin\Debug\SegundoParcial.exe.config
+C:\Users\franc\source\repos\SegundoParcial\bin\Debug\SegundoParcial.exe
+C:\Users\franc\source\repos\SegundoParcial\bin\Debug\SegundoParcial.pdb
+C:\Users\franc\source\repos\SegundoParcial\obj\Debug\SegundoParcial.csproj.AssemblyReference.cache
+C:\Users\franc\source\repos\SegundoParcial\obj\Debug\SegundoParcial.Properties.Resources.resources
+C:\Users\franc\source\repos\SegundoParcial\obj\Debug\SegundoParcial.csproj.GenerateResource.cache
+C:\Users\franc\source\repos\SegundoParcial\obj\Debug\SegundoParcial.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\SegundoParcial\obj\Debug\SegundoParcial.exe
+C:\Users\franc\source\repos\SegundoParcial\obj\Debug\SegundoParcial.pdb
+C:\Users\franc\source\repos\SegundoParcial\obj\Debug\SegundoParcial.Estudiante.resources
+C:\Users\franc\source\repos\SegundoParcial\obj\Debug\SegundoParcial.MDI.resources
+C:\Users\franc\source\repos\SegundoParcial\obj\Debug\SegundoParcial.Catedratico.resources
